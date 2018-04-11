@@ -1,0 +1,3 @@
+global dbName
+
+dbName = "philips"
