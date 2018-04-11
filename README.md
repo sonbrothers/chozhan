@@ -1,4 +1,4 @@
-# chozhan - Memorial of the Tamil king#
+# chozhan - Memorial of the Tamil king
 
 Exe Installtion :
 
