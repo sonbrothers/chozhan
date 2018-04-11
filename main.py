@@ -1,0 +1,2 @@
+import whoisology
+whoisology.getWhoisologyData()
