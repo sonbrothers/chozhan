@@ -20,13 +20,16 @@ Exe Installtion :
 
 2. Selenium Firefox Web Driver
 
-    1.Download - https://github.com/mozilla/geckodriver/releases<br/>
-    2.Instalation:<br/>
-        1.Windows - https://stackoverflow.com/questions/41190989/how-do-i-install-geckodriver (Refer Sean Answer)<br/>
-        2.Kali Linux  - https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu<br/>
+    1. Download - https://github.com/mozilla/geckodriver/releases<br/>
+    2. Instalation:<br/>
+        1. Windows - https://stackoverflow.com/questions/41190989/how-do-i-install-geckodriver (Refer Sean Answer)<br/>
+        2. Kali Linux  - https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu<br/>
 
 Pip Python Package:
 
 1.  pip install pymongo
 2.  pip install selenium
 3.  pip install requests
+
+Lead Developer
+    1. Subin Antony
