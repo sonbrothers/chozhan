@@ -14,14 +14,14 @@ Exe Installtion :
 
 1. MongoDB
 
-    1.Windows - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+    1.Windows - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/ \n
     2.Debian - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/
 
 2. Selenium Firefox Web Driver
 
     1.Download - https://github.com/mozilla/geckodriver/releases
-    2.Instalation:
-        1.Windows - https://stackoverflow.com/questions/41190989/how-do-i-install-geckodriver (Refer Sean Answer)
+    2.Instalation:\n
+        1.Windows - https://stackoverflow.com/questions/41190989/how-do-i-install-geckodriver (Refer Sean Answer)\n
         2.Kali Linux  - https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
 
 Pip Python Package:
