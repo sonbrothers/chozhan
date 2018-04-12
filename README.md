@@ -31,6 +31,6 @@ Chozhan is the OSINT tool which help oraganization to identify their domains, Su
     2.  pip install selenium
     3.  pip install requests
 
-**Lead Developer** <br/>
+**Developer** <br/>
 
-    1. Subin Antony
+Subin Antony @babusubinantony
