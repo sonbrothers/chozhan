@@ -2,16 +2,16 @@
 
 Chozhan is the OSINT tool which help oraganization to identify their domains, Sub domains, IP blocks,Senstive web portal and other IT assets exposed publicly.
 
-Module Coverage :
+""Module Coverage""
 
     1. Database setup with pushDB and pullDB engine.
     2. Whoisology domains
     3. Whois Search of them
     n. Will add other modules...
 
-Note - Tool is in under development.
+""Note"" - Tool is in under development.
 
-Exe Installtion :
+""Exe Installtion""
 
 1. MongoDB
 
@@ -25,11 +25,12 @@ Exe Installtion :
         1. Windows - https://stackoverflow.com/questions/41190989/how-do-i-install-geckodriver (Refer Sean Answer)<br/>
         2. Kali Linux  - https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu<br/>
 
-Pip Python Package:
+**Pip Python Package** <br/>
 
-1.  pip install pymongo
-2.  pip install selenium
-3.  pip install requests
+    1.  pip install pymongo
+    2.  pip install selenium
+    3.  pip install requests
 
 **Lead Developer** <br/>
+
     1. Subin Antony
