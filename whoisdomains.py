@@ -19,5 +19,3 @@ def whoisWhoisologyFailed():
             insertWhoisologyWhois(whois.whois(domain))
         except Exception as error:
             insertWhoisologyFailedDomains(domain)
-
-whoisWhoisology()
