@@ -31,5 +31,5 @@ Pip Python Package:
 2.  pip install selenium
 3.  pip install requests
 
-Lead Developer <br/>
+**Lead Developer** <br/>
     1. Subin Antony
