@@ -2,7 +2,7 @@
 
 Chozhan is the OSINT tool which help oraganization to identify their domains, Sub domains, IP blocks,Senstive web portal and other IT assets exposed publicly.
 
-**Module Coverage*
+**Module Coverage**
 
     1. Database setup with pushDB and pullDB engine.
     2. Whoisology domains
