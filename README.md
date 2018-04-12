@@ -1,5 +1,4 @@
 # chozhan
-# chozhan
 
 Chozhan is the OSINT tool which help oraganization to identify their domains, Sub domains, IP blocks,Senstive web portal and other IT assets exposed publicly.
 
